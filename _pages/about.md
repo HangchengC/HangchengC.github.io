@@ -31,6 +31,10 @@ I am a Postdoctoral Fellow in City University of Hong Kong, under the supervisio
 
 # 📝 Publications
 - mimoCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption. IEEE S&P 2024.
+- ISACoT: Integrating sensing with data traffic for ubiquitous IoT devices. IEEE Communications Magazine.
+- LIPAuth: Hand-dependent Light Intensity Patterns for Resilient User Authentication. ACM ToSN.
+- LiveProbe: Exploring Continuous Voice Liveness Detection via Phonemic Energy Response Patterns IEEE IoT-J.
+- Integrating monostatic sensing with communication for IoT. ACM MobiCom Workshop 2022.
 - HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. IEEE TMC.
 - MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. IEEE TMC.
 - Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. IEEE ICDCS 2021.

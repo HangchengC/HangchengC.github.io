@@ -30,11 +30,11 @@ I am a Postdoctoral Fellow in City University of Hong Kong, under the supervisio
 
 
 # 📝 Publications
-- mimoCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption. <br> IEEE S&P 2024.<br>
-- HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. <br> IEEE TMC.<br>
-- MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. <br> IEEE TMC.<br>
-- Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. <br> IEEE ICDCS 2021.<br>
-- SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones. <br> ACM UbiComp/IMWUT 2020. <br>
+- mimoCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption. IEEE S&P 2024.
+- HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. IEEE TMC.
+- MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. IEEE TMC.
+- Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. IEEE ICDCS 2021.
+- SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones. ACM UbiComp/IMWUT 2020.
               
             
 

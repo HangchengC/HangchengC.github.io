@@ -28,7 +28,7 @@ I am a Postdoctoral Fellow in City University of Hong Kong, under the supervisio
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Communications Magazine.
 - *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE TMC.
 
-- 
+
 # 📝 Publications
 - mimoCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption. <br> IEEE S&P 2024.<br>
 - HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. <br> IEEE TMC.<br>

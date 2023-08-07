@@ -39,7 +39,7 @@ I am a Postdoctoral Fellow in City University of Hong Kong, under the supervisio
             
 
 # 🎖 Honors and Awards
-- *2023* First Prize of Artificial Intelligence Science and Technology Progress-Hunan Computer Federation.
+- *2023* First Prize of Science and Technology Progress-Hunan Computer Federation.
 - *2023* Honor (PhD) Graduate of Hunan Province. 
 - *2022* Outstanding Student of Hunan University. 
 - *2020* Hunan University President Scholarship.  

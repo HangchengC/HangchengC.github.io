@@ -27,44 +27,25 @@ I am a Postdoctoral Fellow in City University of Hong Kong, under the supervisio
 - *2022.12*: &nbsp;🎉🎉 One paper is accepted by ACM ToSN.
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Communications Magazine.
 - *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE TMC.
-# 📝 Publications 
-
-<div class="mb-3">
-        <div class="col-sm-10">
-            <li> SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones. <br>
-                &emsp;&emsp;ACM UbiComp/IMWUT 2020. Accepted.<br>
-                <p><i><font>&emsp;&emsp;Hongbo Jiang, <strong>Hangcheng Cao</strong>, Daibo Liu, Jie Xiong, Zhichao Cao.</font></i></p>
+# 📝 Selected Publications  [<a href="https://scholar.google.com/citations?hl=zh-CN&user=gzq7YKkAAAAJ" title="Baidu">Google Scholar</a>]</h4>
+- mimoCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption. <br> IEEE S&P 2024.<br>
+- HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. <br> IEEE TMC.<br>
+- MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. <br> IEEE TMC.<br>
+- Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. <br> IEEE ICDCS 2021.<br>
+- SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones. <br> ACM UbiComp/IMWUT 2020. <br>
+              
             
-            <li> Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. <br>
-                &emsp;&emsp;IEEE ICDCS 2021. Accepted.<br>
-                <p><i><font>&emsp;&emsp;<strong>Hangcheng Cao</strong>, Hongbo Jiang, Daibo Liu, Jie Xiong.</font></i></p>
-
-            <li> HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. <br>
-                &emsp;&emsp;IEEE TMC. Accepted.<br>
-                <p><i><font>&emsp;&emsp;<strong>Hangcheng Cao</strong>, Hongbo Jiang, Daibo Liu, Chao Cai, John C.S. Lui, Jun Luo.</font></i></p>
-
-            <li> MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. <br>
-                    &emsp;&emsp;IEEE TMC. Accepted.<br>
-                    <p><i><font>&emsp;&emsp;<strong>Hangcheng Cao</strong>, Hongbo Jiang, Daibo Liu, Jun Luo.</font></i></p>
-
-            <li> Integrating Monostatic Sensing with Communication for IoT. <br>
-                &emsp;&emsp;ACM Mobicom Workshop on ISACom. Accepted.<br>
-                <p><i><font>&emsp;&emsp;Zhe Chen, Tianyue Zheng, Chao Hu, <strong>Hangcheng Cao</strong>, Yanbing Yang, Hongbo Jiang, Jun Luo.</font></i></p>
-    
-        </div>
-    </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* First Prize of Artificial Intelligence Science and Technology Progress-Hunan Computer Federation.
+- *2023* Honor (PhD) Graduate of Hunan Province. 
+- *2022* Outstanding Student of Hunan University. 
+- *2020* Hunan University President Scholarship.  
+- *2019* National Third Prize in China Computer Competition. 
+- *2017* National Encouragement Scholarship. 
+- *2016* Meritorious Honor in Mathematical Contest in Modeling. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Professional Services
+- Invited Reviewer: IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, ACM Transactions on Sensor Networks, IEEE Transactions on Network Science and Engineering, IEEE Internet of Things Journal, etc.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

@@ -17,30 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Postdoctoral Fellow in City University of Hong Kong, under the supervision of <a href="https://www.cs.cityu.edu.hk/~yugufang/" title="Supervisor">Prof. Yuguang Fang</a>. I received my Ph.D. degree from the College of Computer Science and Electronic Engineer, Hunan University. From 2021 to 2022, I study as a joint Ph.D. student at the School of Computer Science and Engineering at Nanyang Technological University (NTU), Singapore. I am also a technical leader of one industry-university-research cooperation project (2022-2023) supported by OPPO. My research interests lie in the area of IoT security, mainly focusing on user identity authentication, privacy-preserving driven wireless sensing, and multi-modal fusion energized event anomaly detection. I hope I can contribute my efforts to help build a secure IoT system. I have published papers in IEEE S&P, ACM Ubicomp/IMWUT, IEEE TMC, IEEE ICDCS, ACM ToSN, IEEE IoT-J, IEEE Communications Magazine, etc. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by IEEE S&P 2024. 
+- *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE IoT-J.
+- *2023.04*: &nbsp;🎉🎉 One paper is accepted by IEEE ICDCS 2023.
+- *2022.12*: &nbsp;🎉🎉 One paper is accepted by ACM ToSN.
+- *2022.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Communications Magazine.
+- *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE TMC.
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="mb-3">
+        <div class="col-sm-10">
+            <li> SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones. <br>
+                &emsp;&emsp;ACM UbiComp/IMWUT 2020. Accepted.<br>
+                <p><i><font>&emsp;&emsp;Hongbo Jiang, <strong>Hangcheng Cao</strong>, Daibo Liu, Jie Xiong, Zhichao Cao.</font></i></p>
+            
+            <li> Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. <br>
+                &emsp;&emsp;IEEE ICDCS 2021. Accepted.<br>
+                <p><i><font>&emsp;&emsp;<strong>Hangcheng Cao</strong>, Hongbo Jiang, Daibo Liu, Jie Xiong.</font></i></p>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+            <li> HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. <br>
+                &emsp;&emsp;IEEE TMC. Accepted.<br>
+                <p><i><font>&emsp;&emsp;<strong>Hangcheng Cao</strong>, Hongbo Jiang, Daibo Liu, Chao Cai, John C.S. Lui, Jun Luo.</font></i></p>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+            <li> MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. <br>
+                    &emsp;&emsp;IEEE TMC. Accepted.<br>
+                    <p><i><font>&emsp;&emsp;<strong>Hangcheng Cao</strong>, Hongbo Jiang, Daibo Liu, Jun Luo.</font></i></p>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+            <li> Integrating Monostatic Sensing with Communication for IoT. <br>
+                &emsp;&emsp;ACM Mobicom Workshop on ISACom. Accepted.<br>
+                <p><i><font>&emsp;&emsp;Zhe Chen, Tianyue Zheng, Chao Hu, <strong>Hangcheng Cao</strong>, Yanbing Yang, Hongbo Jiang, Jun Luo.</font></i></p>
+    
+        </div>
+    </div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

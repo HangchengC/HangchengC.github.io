@@ -21,7 +21,7 @@ I am a Postdoctoral Fellow in City University of Hong Kong, under the supervisio
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by IEEE S\&P 2024. 
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by IEEE S&P 2024. 
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE IoT-J.
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by IEEE ICDCS 2023.
 - *2022.12*: &nbsp;🎉🎉 One paper is accepted by ACM ToSN.

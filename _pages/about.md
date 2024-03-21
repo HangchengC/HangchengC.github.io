@@ -56,7 +56,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - *2016* Meritorious Honor in Mathematical Contest in Modeling. 
 
 # 📖 Professional Services
-- Invited Journal Reviewer: IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Cloud Computing, ACM Transactions on Sensor Networks, IEEE Transactions on Network Science and Engineering, IEEE Internet of Things Journal,  IEEE Transactions on Vehicular Technology, etc.
+- Invited Journal Reviewer: IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Cloud Computing, ACM Transactions on Sensor Networks, IEEE Transactions on Network Science and Engineering, IEEE Internet of Things Journal,  IEEE Transactions on Vehicular Technology, etc.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 © 2023 Hangcheng Cao. Powered by Jekyll & AcademicPages, a fork of RayeRen.

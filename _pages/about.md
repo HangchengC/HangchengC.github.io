@@ -56,7 +56,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - *2016* Meritorious Honor in Mathematical Contest in Modeling. 
 
 # 📖 Professional Services
-- Invited Journal Reviewer:
+<b>Invited Journal Reviewer:</b>
 <p>
 IEEE Journal on Selected Areas in Communications<br>
 IEEE Transactions on Mobile Computing<br>

@@ -58,16 +58,16 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 # 📖 Professional Services
 - Invited Journal Reviewer:
 <p>
-&nbsp &nbsp &nbsp IEEE Journal on Selected Areas in Communications<br>
-&nbsp &nbsp &nbsp IEEE Transactions on Mobile Computing<br>
-&nbsp &nbsp &nbsp IEEE Transactions on Information Forensics and Security<br>
-&nbsp &nbsp &nbsp IEEE Transactions on Dependable and Secure Computing<br>
-&nbsp &nbsp &nbsp IEEE Transactions on Parallel and Distributed Systems<br>
-&nbsp &nbsp &nbsp IEEE Transactions on Cloud Computing<br>
-&nbsp &nbsp &nbsp ACM Transactions on Sensor Networks<br>
-&nbsp &nbsp &nbsp IEEE Transactions on Network Science and Engineering<br>
-&nbsp &nbsp &nbsp IEEE Internet of Things Journal<br>
-&nbsp &nbsp &nbsp IEEE Transactions on Vehicular Technology<br>
+&nbsp; &nbsp; &nbsp; IEEE Journal on Selected Areas in Communications<br>
+&nbsp; &nbsp; &nbsp; IEEE Transactions on Mobile Computing<br>
+&nbsp; &nbsp; &nbsp; IEEE Transactions on Information Forensics and Security<br>
+&nbsp; &nbsp; &nbsp; IEEE Transactions on Dependable and Secure Computing<br>
+&nbsp; &nbsp; &nbsp; IEEE Transactions on Parallel and Distributed Systems<br>
+&nbsp; &nbsp; &nbsp; IEEE Transactions on Cloud Computing<br>
+&nbsp; &nbsp; &nbsp; ACM Transactions on Sensor Networks<br>
+&nbsp; &nbsp; &nbsp; IEEE Transactions on Network Science and Engineering<br>
+&nbsp; &nbsp; &nbsp; IEEE Internet of Things Journal<br>
+&nbsp; &nbsp; &nbsp; IEEE Transactions on Vehicular Technology<br>
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -57,16 +57,18 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 
 # 📖 Professional Services
 - Invited Journal Reviewer:
-IEEE Journal on Selected Areas in Communications
-IEEE Transactions on Mobile Computing
-IEEE Transactions on Information Forensics and Security
-IEEE Transactions on Dependable and Secure Computing
-IEEE Transactions on Parallel and Distributed Systems
-IEEE Transactions on Cloud Computing
-ACM Transactions on Sensor Networks
-IEEE Transactions on Network Science and Engineering
-IEEE Internet of Things Journal
-IEEE Transactions on Vehicular Technology
+<p>
+IEEE Journal on Selected Areas in Communications<br>
+IEEE Transactions on Mobile Computing<br>
+IEEE Transactions on Information Forensics and Security<br>
+IEEE Transactions on Dependable and Secure Computing<br>
+IEEE Transactions on Parallel and Distributed Systems<br>
+IEEE Transactions on Cloud Computing<br>
+ACM Transactions on Sensor Networks<br>
+IEEE Transactions on Network Science and Engineering<br>
+IEEE Internet of Things Journal<br>
+IEEE Transactions on Vehicular Technology<br>
+</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 © 2023 Hangcheng Cao. Powered by Jekyll & AcademicPages, a fork of RayeRen.

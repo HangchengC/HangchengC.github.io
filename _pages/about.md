@@ -64,11 +64,11 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - IEEE Transactions on Dependable and Secure Computing<br>
 - IEEE Transactions on Parallel and Distributed Systems<br>
 - IEEE Transactions on Cloud Computing<br>
-- Information Fusion<br> 
 - ACM Transactions on Sensor Networks<br>
 - IEEE Transactions on Network Science and Engineering<br>
 - IEEE Internet of Things Journal<br>
 - IEEE Transactions on Vehicular Technology<br>
+- Information Fusion<br> 
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

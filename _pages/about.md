@@ -57,7 +57,6 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 
 # 📖 Professional Services
 <b>Invited Journal Reviewer:</b>
-I have reviewed over 160+ articles for our research community.<br>
 <p>
 - IEEE Journal on Selected Areas in Communications<br>
 - IEEE Transactions on Mobile Computing<br>

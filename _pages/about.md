@@ -58,12 +58,14 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 # 📖 Professional Services
 <b>Invited Journal Reviewer:</b>
 <p>
+  I have reviewed over 160+ articles for our research community.
 - IEEE Journal on Selected Areas in Communications<br>
 - IEEE Transactions on Mobile Computing<br>
 - IEEE Transactions on Information Forensics and Security<br>
 - IEEE Transactions on Dependable and Secure Computing<br>
 - IEEE Transactions on Parallel and Distributed Systems<br>
 - IEEE Transactions on Cloud Computing<br>
+- Information Fusion<br> 
 - ACM Transactions on Sensor Networks<br>
 - IEEE Transactions on Network Science and Engineering<br>
 - IEEE Internet of Things Journal<br>

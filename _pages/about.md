@@ -74,6 +74,11 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - Neural Computing and Applications<br>
 </p>
 
+<b>Invited Journal Reviewer:</b>
+<p>
+- IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS) 2024 <br>
+- IEEE/CIC International Conference on Communications in China (ICCC) 2024 <br>
+</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 © 2023 Hangcheng Cao. Powered by Jekyll & AcademicPages, a fork of RayeRen.
 

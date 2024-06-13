@@ -71,6 +71,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - IEEE IEEE Transactions on Circuits and Systems for Video Technology<br>
 - IEEE Transactions on Network and Service Management<br>
 - Information Fusion<br> 
+- Neural Computing and Applications<br>
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -26,19 +26,14 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - *2024.02*: &nbsp;🎉 Two papers are accepted by IEEE TMC. 
 - *2023.12*: &nbsp;🎉 One paper is accepted by IEEE INFOCOM 2024. 
 - *2023.07*: &nbsp;🎉 One paper is accepted by IEEE S&P 2024. 
-- *2023.06*: &nbsp;🎉 One paper is accepted by IEEE IoT-J.
 - *2023.04*: &nbsp;🎉 One paper is accepted by IEEE ICDCS 2023.
 - *2022.12*: &nbsp;🎉 One paper is accepted by ACM ToSN.
-- *2022.11*: &nbsp;🎉 One paper is accepted by IEEE Communications Magazine.
 - *2022.10*: &nbsp;🎉 Two papers are accepted by IEEE TMC.
 
 
 # 📝 Publications
 - mimoCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption. IEEE S&P 2024.
-- ISACoT: Integrating sensing with data traffic for ubiquitous IoT devices. IEEE Communications Magazine.
 - LIPAuth: Hand-dependent Light Intensity Patterns for Resilient User Authentication. ACM ToSN.
-- LiveProbe: Exploring Continuous Voice Liveness Detection via Phonemic Energy Response Patterns IEEE IoT-J.
-- Integrating monostatic sensing with communication for IoT. ACM MobiCom Workshop 2022.
 - HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. IEEE TMC.
 - MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. IEEE TMC.
 - Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. IEEE ICDCS 2021.
@@ -71,13 +66,17 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - IEEE IEEE Transactions on Circuits and Systems for Video Technology<br>
 - IEEE Transactions on Network and Service Management<br>
 - Information Fusion<br> 
+- Pattern Recognition<br>
+- Cybersecurity<br>
 - Neural Computing and Applications<br>
+.....
 </p>
 
 <b>Invited Conference Reviewer:</b>
 <p>
 - IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS) 2024 <br>
 - IEEE/CIC International Conference on Communications in China (ICCC) 2024 <br>
+.....
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 © 2023 Hangcheng Cao. Powered by Jekyll & AcademicPages, a fork of RayeRen.

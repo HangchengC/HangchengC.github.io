@@ -64,6 +64,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - IEEE Internet of Things Journal<br>
 - IEEE Transactions on Vehicular Technology<br>
 - IEEE IEEE Transactions on Circuits and Systems for Video Technology<br>
+- ACM Transactions on Autonomous and Adaptive Systems<br>
 - IEEE Transactions on Network and Service Management<br>
 - Information Fusion<br> 
 - Pattern Recognition<br>

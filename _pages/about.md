@@ -66,10 +66,10 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - IEEE IEEE Transactions on Circuits and Systems for Video Technology<br>
 - ACM Transactions on Autonomous and Adaptive Systems<br>
 - IEEE Transactions on Network and Service Management<br>
+- IEEE Transactions on Cognitive Communications and Networking<br>
 - Information Fusion<br> 
 - Pattern Recognition<br>
 - Cybersecurity<br>
-- Neural Computing and Applications<br>
 .....
 </p>
 

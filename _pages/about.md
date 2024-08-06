@@ -70,6 +70,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - Information Fusion<br> 
 - Pattern Recognition<br>
 - Cybersecurity<br>
+- Journal of Xidian University<br>
 .....
 </p>
 

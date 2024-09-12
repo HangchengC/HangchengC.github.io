@@ -74,10 +74,11 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 .....
 </p>
 
-<b>Invited Conference TPC/Reviewer:</b>
+<b>Invited Conference Reviewer:</b>
 <p>
-- IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS) 2024 <br>
-- IEEE/CIC International Conference on Communications in China (ICCC) 2024 <br>
+- Artifact Evaluation Committee, ACM SenSys 2024 <br>
+- Reviewer, IEEE/ACM IWQoS 2024 <br>
+- Reviewer, IEEE/CIC ICCC 2024 <br>
 .....
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

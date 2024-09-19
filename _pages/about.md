@@ -76,6 +76,8 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 
 <b>Invited Conference Reviewer:</b>
 <p>
+- Program Committee, AAAI 2025 <br>
+- Reviewer, IEEE HPCC 2024 <br>
 - Artifact Evaluation Committee, ACM SenSys 2024 <br>
 - Reviewer, IEEE/ACM IWQoS 2024 <br>
 - Reviewer, IEEE/CIC ICCC 2024 <br>

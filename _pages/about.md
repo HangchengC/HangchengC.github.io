@@ -51,6 +51,13 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - *2016* Meritorious Honor in Mathematical Contest in Modeling. 
 
 # 📖 Professional Services
+<b>Editor/TPC:</b>
+<p>
+  - Youth Editor, Journal of Information and Intelligence, 2024-Present <br>
+  - Program Committee, AAAI 2025 <br>
+  - Artifact Evaluation Committee, ACM SenSys 2024 <br>
+</p>
+
 <b>Invited Journal Reviewer:</b>
 <p>
 - IEEE Journal on Selected Areas in Communications<br>
@@ -77,10 +84,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 
 <b>Invited Conference Reviewer:</b>
 <p>
-- Youth Editor, Journal of Information and Intelligence, 2024-Present <br>
-- Program Committee, AAAI 2025 <br>
 - Reviewer, IEEE HPCC 2024 <br>
-- Artifact Evaluation Committee, ACM SenSys 2024 <br>
 - Reviewer, IEEE/ACM IWQoS 2024 <br>
 - Reviewer, IEEE/CIC ICCC 2024 <br>
 .....

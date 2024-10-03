@@ -71,11 +71,13 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - Pattern Recognition<br>
 - Cybersecurity<br>
 - Journal of Xidian University<br>
+- IEEE Transactions on Intelligent Transportation Systems<br>
 .....
 </p>
 
 <b>Invited Conference Reviewer:</b>
 <p>
+- Youth Editor, Journal of Information and Intelligence, 2024-Present <br>
 - Program Committee, AAAI 2025 <br>
 - Reviewer, IEEE HPCC 2024 <br>
 - Artifact Evaluation Committee, ACM SenSys 2024 <br>

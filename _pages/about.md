@@ -42,8 +42,8 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 # 🎖 Honors and Awards
 - *2025* Jiangsu Province First Prize for Outstanding Academic Paper in Cyberspace Security.
 - *2024* TrustCom’24-SPATI Best Paper Award.
+- *2023* First Prize in Science and Technology Progress Award by Hunan Computer Society.
 - *2023* Honor (PhD) Graduate of Hunan Province. 
-- *2022* Outstanding Student of Hunan University.
 - *2021* Chinese Goverment Scholarship from China Scholarship Council. 
 - *2019* National Third Prize in China Computer Competition. 
 

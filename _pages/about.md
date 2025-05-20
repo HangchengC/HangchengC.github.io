@@ -32,12 +32,11 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 
 
 # 📝 Publications
-- mimoCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption. IEEE S&P 2024.
-- LIPAuth: Hand-dependent Light Intensity Patterns for Resilient User Authentication. ACM ToSN.
+- mimoCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption. IEEE S&P.
 - HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. IEEE TMC.
 - MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. IEEE TMC.
-- Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. IEEE ICDCS 2021.
-- SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones. ACM UbiComp/IMWUT 2020.
+- Evidence in Hand: Passive Vibration Response-based Continuous User Authentication. IEEE ICDCS.
+- SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones. ACM UbiComp/IMWUT.
                 
 
 # 🎖 Honors and Awards
@@ -52,6 +51,10 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 <b>Editor/TPC:</b>
 <p>
   - Youth Editor, Journal of Information and Intelligence, 2024-Present <br>
+  - Youth Editor, Journal of Chongqing University, 2024-Present <br>
+  - KSII Transactions on Internet and Information Systems, Editor, 2024-Present<br>
+  - Program Vice-Chair, IEEE iThings 2025 <br>
+  - TPC Member, VTC-fall 2025 <br>
   - Program Committee, AAAI 2025 <br>
   - Artifact Evaluation Committee, ACM SenSys 2024 <br>
 </p>
@@ -82,6 +85,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 
 <b>Invited Conference Reviewer:</b>
 <p>
+- Reviewer, IEEE ICML 2025 <br>
 - Reviewer, IEEE ICLR 2024 <br>
 - Reviewer, IEEE HPCC 2024 <br>
 - Reviewer, IEEE/ACM IWQoS 2024 <br>

@@ -57,7 +57,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
   - KSII Transactions on Internet and Information Systems, Editor, 2024-Present<br>
   - Program Vice-Chair, IEEE iThings 2025 <br>
   - TPC Member, VTC-fall 2025 <br>
-  - TPC Member, IEEE ICPADS 2025 <br>
+  - TPC Member & Poster Co-Chair, IEEE ICPADS 2025 <br>
   - Program Committee, AAAI 2025, 2026 <br>
   - Artifact Evaluation Committee, ACM SenSys 2024 <br>
 </p>

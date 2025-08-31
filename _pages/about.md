@@ -69,6 +69,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 - IEEE Transactions on Information Forensics and Security<br>
 - IEEE Transactions on Dependable and Secure Computing<br>
 - IEEE Transactions on Parallel and Distributed Systems<br>
+-IEEE Transactions on Services Computing<br>
 - IEEE Transactions on Cloud Computing<br>
 - ACM Transactions on Sensor Networks<br>
 - IEEE Transactions on Network Science and Engineering<br>

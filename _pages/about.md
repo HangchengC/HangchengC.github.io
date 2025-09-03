@@ -89,7 +89,7 @@ I am a Postdoctoral Fellow at City University of Hong Kong, under the supervisio
 
 <b>Invited Conference Reviewer:</b>
 <p>
-- Reviewer, IEEE ICML 2025 <br>
+- Reviewer, IEEE ICML 2025, 2026 <br>
 - Reviewer, IEEE ICLR 2024 <br>
 - Reviewer, IEEE HPCC 2024 <br>
 - Reviewer, IEEE/ACM IWQoS 2024 <br>
